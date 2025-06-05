@@ -1,0 +1,19 @@
+{"action": "entry", "ticker": "SPY", "type": "c", "strike": 590.0, "expiration": "EOD", "contract_price": 0.85, "timestamp": "2025-06-02T16:18:28.061297"}
+{"action": "entry", "ticker": "SPY", "type": "call", "strike": 590.0, "expiration": "EOD", "contract_price": 0.85, "timestamp": "2025-06-02T16:18:40.314065"}
+{"action": "entry", "ticker": "SPY", "type": "call", "strike": 590.0, "expiration": "06/02/2025", "contract_price": 0.85, "timestamp": "2025-06-02T16:20:19.810926"}
+{"action": "entry", "ticker": "SPY", "type": "call", "strike": 590.0, "expiration": "06/02/2025", "contract_price": 0.85, "timestamp": "2025-06-02T16:21:34.414036"}
+{"action": "entry", "ticker": "SPY", "type": "call", "strike": 590.0, "expiration": "06/02/2025", "contract_price": 0.85, "timestamp": "2025-06-02T16:21:51.667732"}
+{"action": "entry", "ticker": "QQQ", "type": "call", "strike": 590.0, "expiration": "06/02/2025", "contract_price": 0.85, "timestamp": "2025-06-02T16:22:50.125531"}
+{"action": "entry", "ticker": "QQQ", "type": "call", "strike": 590.0, "expiration": "06/02/2025", "contract_price": 0.85, "timestamp": "2025-06-02T16:23:10.190792"}
+{"action": "entry", "ticker": "QQQ", "type": "call", "strike": 590.0, "expiration": "06/02/2025", "contract_price": 0.85, "timestamp": "2025-06-02T16:23:12.950419"}
+{"action": "entry", "ticker": "QQQ", "type": "put", "strike": 456.0, "expiration": "06/02/2025", "contract_price": 0.55, "timestamp": "2025-06-02T16:23:36.951379"}
+{"action": "entry", "ticker": "SPY", "type": "call", "strike": 590, "expiration": "2024-06-10", "contract_price": 0.85}
+{"action": "entry", "ticker": "SPY", "type": "put", "strike": 600, "expiration": null, "contract_price": null}
+{"action": null}
+{"action": "entry", "ticker": "SPY", "type": "call", "strike": 220, "expiration": "EOD", "contract_price": 0.76}
+{"action": "exit", "ticker": "SPY"}
+{"error": "Not a valid trading signal"}
+{"action": null}
+{"action": "entry", "ticker": "SPY", "type": "call", "strike": 220, "expiration": "today", "contract_price": null}
+{"action": "entry", "ticker": "SPY", "type": "call", "strike": 220, "expiration": "06/02/2025", "contract_price": null}
+{"action": "entry", "ticker": "SPY", "type": "put", "strike": 200, "expiration": "06/03/2025", "contract_price": null}
